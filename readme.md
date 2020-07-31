@@ -2,8 +2,7 @@
 
 ## SQLs
 
-....
-
+Baixar o PDF dentro da Pasta SQL e seguir as instruções.
 
 ## Bom saber
 
